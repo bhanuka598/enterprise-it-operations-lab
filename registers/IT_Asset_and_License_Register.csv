@@ -1,0 +1,9 @@
+Record_Type,Asset_or_License_ID,Item_Name,Category,Serial_or_Key,Assigned_User,Department,Total_Seats,Used_Seats,Status,Renewal_or_Warranty_Date
+Hardware,SWM-LT-001,Dell Latitude 5440,Laptop,SN-8849201A,K. Perera,Wealth Management,1,1,Active,2028-06-15
+Hardware,SWM-LT-002,Apple MacBook Air M2,Laptop,SN-C02YX19M,N. Silva,Marketing,1,1,Active,2027-11-30
+Hardware,SWM-DT-003,HP EliteDesk 800 G9,Desktop,SN-4CE2190B,R. Fernando,Finance,1,1,Active,2028-01-20
+Hardware,SWM-PR-004,Canon imageRUNNER 2625i,Network Printer,SN-CN992011,Shared Floor 02,Operations,1,1,Active,2027-08-10
+Hardware,SWM-LT-005,Lenovo ThinkPad T14,Laptop,SN-PF39102K,Unassigned,IT Stock,1,0,In Stock - Ready,2028-09-01
+Software License,LIC-M365-01,Microsoft 365 Business Standard,Cloud Productivity,Tenant-Entra-01,Corporate Staff,All Departments,50,44,Active,2027-03-31
+Software License,LIC-EDR-02,Endpoint Antivirus & EDR,Information Security,AV-ENT-8821,All Workstations,IT Security,60,52,Active,2027-05-15
+Software License,LIC-PDF-03,Adobe Acrobat Pro,Document Management,ADB-9920-PRO,Advisory Team,Wealth Management,15,14,Active - Near Capacity,2027-01-15
